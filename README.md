@@ -1,4 +1,8 @@
 ECommerce Application with Next.js & Sanity
+
+Demo: https://ecommerce-sanity-u49a.vercel.app/
+Sanity: https://ecommerce-akshay.sanity.studio/
+
 ![e1](images/e1.png)
 ![e2](images/e2.png)
 ![e3](images/e3.png)
